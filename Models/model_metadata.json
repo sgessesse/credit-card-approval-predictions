@@ -1,0 +1,7 @@
+{
+    "model_type": "StackingClassifier",
+    "threshold": 0.6699999999999997,
+    "metric_score": 0.7870639755197476,
+    "date_created": "2025-03-22 13:12:00",
+    "business_cost_ratio": 7
+}
